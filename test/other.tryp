@@ -1,0 +1,4 @@
+use "math" # You can use any standard library in packages
+fn other(value){
+  println(pow(int(value), 10))
+}
