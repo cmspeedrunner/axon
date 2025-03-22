@@ -1,3 +1,0 @@
-fn another(value){
-  print(value)
-}

@@ -1,4 +1,0 @@
-use "math" 
-fn other(value){
-  println(pow(int(value), 10))
-}
