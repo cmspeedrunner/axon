@@ -1,1 +1,5 @@
+use "string"
 
+for arg in argv{
+    println(arg)
+}
