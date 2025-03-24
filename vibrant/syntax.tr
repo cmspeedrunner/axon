@@ -1,4 +1,3 @@
-use "colors"
 use "vibrant/vibrant"
 
 fn source(file){
